@@ -62,9 +62,5 @@ To get a local copy up and running, follow these simple steps.
 - **Notifications:** Add local notifications to remind users about pending settlements.
 - **Bar Charts:** Add a bar chart view for another way to visualize monthly expenses.
 
-## 📸 Screenshots
-
-*(You can add your app screenshots here)*
 
 ---
-Made with ❤️ by a Flutter developer.
